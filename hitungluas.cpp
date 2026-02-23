@@ -12,4 +12,7 @@ int main(){
 
     luas = p*l;
 
+    cout << "Hasilnya" << luas;
+
+
 }
